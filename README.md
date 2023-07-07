@@ -2,4 +2,4 @@
 <h1 align="center">Hi, I´m Leonel - Software Development</h1>
 
 
-<img src="https://github.com/Lioghost/Lioghost/snake/github-contribution-grid-snake-dark.svg" width="100%">
+![snake gif](https://github.com/Lioghost/Lioghost/blob/output/github-contribution-grid-snake.gif)
