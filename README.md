@@ -1,6 +1,7 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&center=true&multiline=true&width=470&height=110&lines=Hello+there!;I%C2%B4m+Leonel+-+Software+Development;WELCOME!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=3000&pause=100&center=true&multiline=true&width=800&height=150&lines=Hello+there!;I%C2%B4m+Leonel+-+Software+Development;WELCOME!)](https://git.io/typing-svg)
+
 
 
 <div>
