@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, I´m Leonel - Software Development</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&center=true&multiline=true&width=470&height=110&lines=Hello+there!;I%C2%B4m+Leonel+-+Software+Development;WELCOME!)](https://git.io/typing-svg)
 
 
 <div>
@@ -53,6 +53,7 @@
 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img align="center" alt="Azure" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+    
   </a>
 
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
