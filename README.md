@@ -3,4 +3,4 @@
 
 
 
-<img src="https://github.com/Lioghost/Lioghost/snake/github-contribution-grid-snake-dark.svg"
+<img src="https://github.com/Lioghost/Lioghost/snake/github-contribution-grid-snake-dark.svg" width="100%" >
