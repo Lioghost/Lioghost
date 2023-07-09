@@ -76,7 +76,7 @@
 
   <a href="https://es.react.dev/" target="_blank" rel="noreferrer"> 
     <img align="center"src="./src/img/reactjs-icon.svg" alt="react.js" width="40" height="30"/> 
-  </a><br>
+  </a><br><br><br>
 
   <!--
   ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
@@ -108,12 +108,9 @@
   ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=blue)
   -->
 
-
-  <div align ="center">
-    <a href="https://github.com/Lioghost">
+  <a href="https://github.com/Lioghost">
       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lioghost&theme=dark&hide_border=false&&layout=compact"/>
-    </a>
-  </div>
+  </a>
 
 </div><br>
 
