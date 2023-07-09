@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=100&center=true&multiline=true&width=800&height=200&lines=Hello+there!;I%C2%B4m+Leonel+-+Software+Developer;WELCOME!)](https://git.io/typing-svg)
 
+<!--
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=100&color=38F7C2&center=true&multiline=true&width=800&height=200&lines=Hello+there!;I%C2%B4m+Leonel+-+Software+Developer;WELCOME!)](https://git.io/typing-svg)
+-->
 
 
 <div>
@@ -20,7 +23,7 @@
 </div>
 
 
-<h3> Languages and tools </h3>
+<h3> Languages </h3>
 <div align="center" valign="top"><br>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -34,6 +37,21 @@
     <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
 
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/200px-ISO_C%2B%2B_Logo.svg.png" alt="matlab" width="40" height="30" /> 
+  </a> 
+  
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img align="center"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="30"/> 
+  </a>
+
+  
+
+  </div><br>
+
+  <h3> Tools & Technologies</h3>
+  <div align="center" valign="top"><br>  
+
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   </a>
@@ -44,31 +62,59 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img align="center" alt="Github" height="35" width="35" src="https://cdn.iconscout.com/icon/free/png-512/github-153-675523.png">
-  </a>
 
   <a href="https://www.linuxfoundation.org/" target="_blank" rel="noreferrer">
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   </a>
 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img align="center" alt="Azure" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-    
+  <a href="https://www.mongodb.com/es" target="_blank" rel="noreferrer">
+    <img align="center" alt="MongoDB" width="40" height="30" src="./src/img/mongodb-ar21.svg" />
+
+  <a href="https://nodejs.org/en/about" target="_blank" rel="noreferrer">
+    <img align="center" alt="Nodejs" width="40" height="40" src="./src/img/nodejs.png" />
   </a>
 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/200px-ISO_C%2B%2B_Logo.svg.png" alt="matlab" width="40" height="30" /> </a> 
+  <a href="https://es.react.dev/" target="_blank" rel="noreferrer"> 
+    <img align="center"src="./src/img/reactjs-icon.svg" alt="react.js" width="40" height="30"/> 
+  </a>
+
+  <!--
+  ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
+
+  ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
+
+  ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
+
+  ![](https://img.shields.io/badge/Code-Java-informational?style=flat&color=blue)
   
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img align="center"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="30"/> 
-  </a>
+  ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=blue)
+
+  ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=blue)
+
+  ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=blue)
+
+  ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=blue)
+
+  ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=blue)
+
+  ![](https://img.shields.io/badge/Tools-NodeJs-informational?style=flat&logo=node.js&logoColor=white&color=blue)
+
+  ![](https://img.shields.io/badge/Tools-Neo4j-informational?style=flat&logo=neo4j&logoColor=white&color=blue)
+
+  ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=blue)
+
+  ![](https://img.shields.io/badge/Tools-React.js-informational?style=flat&logo=react&logoColor=white&color=blue)
+
+  ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=blue)
+  -->
+
+  <br>
 
   <div align ="center">
-  <a href="https://github.com/aleepsy">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lioghost&theme=dark&hide_border=false&&layout=compact"/>
-  </a>
-</div>
+    <a href="https://github.com/Lioghost">
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lioghost&theme=dark&hide_border=false&&layout=compact"/>
+    </a>
+  </div>
 
 </div><br>
 
