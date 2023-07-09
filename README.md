@@ -16,7 +16,7 @@
 
   </i></b></p>
 
-  <p>Interests: 🤖 Artificial Intelligence, 🌐 Web Development, ☁ Cloud, 📲 Movil Devlopment
+  <p>Interests: 🤖 Artificial Intelligence, 🌐 Web Development, ☁ Cloud, 📲 Movil Devlopment, 🧑‍💻  Cybersecurity
   </p>
 
 
@@ -30,7 +30,7 @@
   </a>
 
   <a href="https://dev.java/" target="_blank" rel="noreferrer">
-    <img align="center" alt="Jupyter" width="45" height="35" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+    <img align="center" alt="Java" width="45" height="35" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
   </a>
 
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
