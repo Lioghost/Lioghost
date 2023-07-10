@@ -8,15 +8,15 @@
 
 
 <div>
-  <h2> About me  </h2>
-
+  <h2> 👤  A little about me  </h2>
+  
+  <p>I'm a proactive and autonomus person, always willing to learn and self-taught by nature. I always look for new oppotunities to grow and expand my knowledge. Passionate about the computer area and world of development</p>
   
   <p align="left"><i><b>
   🎓 Computer Systems Engineering Student @ ESCOM - IPN<br>
-
   </i></b></p>
 
-  <p>Interests: 🤖 Artificial Intelligence, 🌐 Web Development, ☁ Cloud, 📲 Movil Devlopment, 🧑‍💻  Cybersecurity
+  <p><strong style="font-size: 15.5px"><i>Interests:</i></strong>&nbsp;&nbsp; 🤖 Artificial Intelligence | 🌐 Web Development&nbsp;|&nbsp; ☁ Cloud Computing | 📲 Mobil Devlopment | 🧑‍💻 Cybersecurity
   </p>
 
 
@@ -37,7 +37,7 @@
     <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.mathworks  .com/" target="_blank" rel="noreferrer">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/200px-ISO_C%2B%2B_Logo.svg.png" alt="matlab" width="40" height="30" /> 
   </a> 
   
