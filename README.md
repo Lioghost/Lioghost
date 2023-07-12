@@ -71,7 +71,7 @@
 
   
   <a href="https://github.com/Lioghost">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lioghost&theme=dark&hide_border=false&&layout=compact"/>
+      
   </a>
 
 </div><br><br>
