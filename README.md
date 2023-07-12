@@ -7,7 +7,7 @@
 <div>
   <h2> 👤  A little about me  </h2>
   
-  <p style="font-size: 14.5px"><b>I'm a proactive and autonomus person, always willing to learn and self-taught by nature. I always look for new oppotunities to grow and expand my knowledge. Passionate about the computer area and world of development. I love the problem solving and creating solutions with my skills</b></p>
+  <p style="font-size: 15px"><b>I'm a proactive and autonomus person, always willing to learn and self-taught by nature. I always look for new oppotunities to grow and expand my knowledge. Passionate about the computer area and world of development. I love the problem solving and creating solutions with my skills</b></p>
   <br>
   
   <p align="left">
