@@ -72,12 +72,13 @@
   
   <a href="https://github.com/Lioghost">
       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lioghost&theme=dark&hide_border=false&&layout=compact"/>
-  </a>
+  </a><br>
+
+  <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+  <img src="https://raw.githubusercontent.com/Lioghost/Lioghost/output/github-contribution-grid-snake.svg" />
 
 </div><br><br>
 
 <p align="center">
-  <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-  <img src="https://raw.githubusercontent.com/Lioghost/Lioghost/output/github-contribution-grid-snake.svg" />
 </p>
 
