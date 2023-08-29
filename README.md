@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=100&center=true&multiline=true&width=800&height=200&lines=Hello+there!;I%C2%B4m+Leonel+-+Software+Developer;WELCOME!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=100&center=true&multiline=true&width=800&height=200&lines=Hello+there!;I%C2%B4m+Leonel+-+Software+Engineer;WELCOME!)](https://git.io/typing-svg)
 
 
 
@@ -74,13 +74,13 @@
       <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lioghost&theme=dark&hide_border=false&&layout=compact"/>
   </a><br><br><br>
 
-  <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-  <!--<img src="https://raw.githubusercontent.com/Lioghost/Lioghost/output/github-contribution-grid-snake.svg" />-->
+  
 
 </div><br><br>
 
 <p align="center">
+  <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+  <img src="https://raw.githubusercontent.com/Lioghost/Lioghost/output/github-contribution-grid-snake.svg" />
 </p>
 
-![snake gif](https://github.com/Lioghost/Lioghost/blob/output/github-contribution-grid-snake.svg)
 
